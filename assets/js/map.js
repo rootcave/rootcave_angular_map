@@ -1,6 +1,6 @@
 // In the following example, markers appear when the user clicks on the map.
 // Each marker is labeled with a single alphabetical character.
-var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+var labels = ["1","2","3","4",5,6,7,8,9,10];
 var labelIndex = 0;
 
 function initialize() {

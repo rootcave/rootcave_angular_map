@@ -1,0 +1,9 @@
+<div>
+    <h5>{{parameter.title}}</h5>
+    <h6>Affected Devices</h6>
+    <ul>
+        <li ng-repeat="device in parameter.control">
+            <span class="clickable-device" ui-sref="main.details({id: device.id})">{{device.name}}</span>
+        </li>
+    </ul>
+</div>
