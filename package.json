@@ -1,0 +1,25 @@
+{
+  "name": "rootcave_map_angular",
+  "version": "1.0.0",
+  "description": "This is an advanced Map API for Angular 1.* by Root Cave ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "rootcave",
+    "melkotoury",
+    "googlemap",
+    "angularMap"
+  ],
+  "author": "melkotoury",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-google-maps": "^2.3.2",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3"
+  }
+}
